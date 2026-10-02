@@ -1,0 +1,6 @@
+{
+  "name": "Đấu Trường Lượng Giác 4P - Bấm Chuông Tranh Tài",
+  "description": "Trò chơi bấm chuông giành quyền trả lời dành cho 4 người chơi cùng lúc trên 1 máy về chủ đề Hàm số lượng giác Toán 11 (KNTT 2018).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
